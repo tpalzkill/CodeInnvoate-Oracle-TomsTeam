@@ -5,6 +5,8 @@ Welcome to the Virtual Code Innovate! These Wiki pages will help guide your team
 ## Goal Statement:
 Our team aims to help residents find their lost dogs and cats through an accessible chatbot and web interface, to do so we will leverage existing information from either api's or imported data sets.
 
+https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/pre-eventChecklist.md
+
 **Enter Team Members Here:**
 
 Team 1

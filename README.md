@@ -2,6 +2,9 @@
 
 Welcome to the Virtual Code Innovate! These Wiki pages will help guide your team through the ideation and goal setting process. To begin with please list your name/email/github username below.
 
+## How To's:
+
+
 ## Goal Statement:
 Our team aims to help residents find their lost dogs and cats through an accessible chatbot and web interface, to do so we will leverage existing information from either api's or imported data sets.
 

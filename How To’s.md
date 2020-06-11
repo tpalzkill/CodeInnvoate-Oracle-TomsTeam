@@ -1,5 +1,5 @@
 # How To’s
-1. From anywhere in your Github repo you should see a navigation bar near the top of the page, find this and then press the option that says “Projects”.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/tree/master/img/How%20To%E2%80%99s)
+1. From anywhere in your Github repo you should see a navigation bar near the top of the page, find this and then press the option that says “Projects”.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/1.png)
 
 2. Once you are in the “Projects” tab you will see 4 separate projects numbered from zero to three. Go ahead and click item “0 - Team Name” ![](How%20To%E2%80%99s/2%205.png)
 

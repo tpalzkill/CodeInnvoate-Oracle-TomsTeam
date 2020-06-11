@@ -1,5 +1,15 @@
 # How To’s
 
+The following instructions will guide you through using Github throughout Virtual Code Innovate as a collaboration and organzation tool.
+
+| Table Of Contents                  |
+|------------------------------------|
+| 1. Creating a Team Name            |
+| 2. Ideating using the Kanban Board |
+| 3. Assembling a goal statement     |
+| 4. Creating and logging all Tasks  |
+| 5. Submitting Issues               |
+
 ## Creating a Team Name
 
 1. From anywhere in your Github repo you should see a navigation bar near the top of the page, find this and then press the option that says “Projects”.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/1.png)
@@ -12,7 +22,9 @@
 
 5. Select “Save Note”  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/5.png)
 
-6.Now again using the top navigation bar click on projects once more. ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/6.png)
+## Ideation Using the Kanban 
+
+1. Now again using the top navigation bar click on projects once more. ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/6.png)
 
 7. This time select item “1- Ideation” ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/7.png)
 
@@ -33,7 +45,9 @@
 
 16. Click Exit Fullscreen in the top right to regain navigational controls. ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/16.png)
 
-17. Now again using the top navigation bar click on projects once more.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/16a.png)
+## Assembling a Goal Statement
+
+1. Now again using the top navigation bar click on projects once more.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/16a.png)
 
 18. This time select item “2 - Goal Statement” ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/17.png)
 
@@ -41,7 +55,9 @@
 
 20. Using you ideation board as guidance work as a team to come up with an easily understandable goal statement; then have one representative log the statement and select the green save note button.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/19.png)
 
-21. Now again using the top navigation bar click on projects once more.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/20.png)
+## Creating and logging all Tasks
+
+1. Now again using the top navigation bar click on projects once more.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/20.png)
 
 22. This time we will select the final item on the list - “3 - Tasks” ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/21.png)
 
@@ -53,7 +69,9 @@
 
 26. Similarly, when a team member completes a task they have been working on they will come back to this board and move the card from in progress to done.![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/25.png)
 
-27. Occasionally you will hit problems on certain tasks and cannot move them to the done column without some help. Whether this is a bug, access issue or just a lack of documentation you can convert any task into an issue and assign it to an Oracle Engineer to resolve.
+## Submitting Issues 
+
+1. Occasionally you will hit problems on certain tasks and cannot move them to the done column without some help. Whether this is a bug, access issue or just a lack of documentation you can convert any task into an issue and assign it to an Oracle Engineer to resolve.
 To start find the task card that is giving you problems and hit the ellipsis icon in the top right of that card. ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/26.png)
 
 28. Next select the “Convert to issue” option.![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/27.png)
@@ -100,3 +118,4 @@ To start find the task card that is giving you problems and hit the ellipsis ico
 46. Next Click the gear next to Projects and then select your task project. This will assign the issue to your tasks board. ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/45.png)
 
 47. Your issue should look like the below image. Double check all information and click the green button to submit the issue. ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/46.png)
+

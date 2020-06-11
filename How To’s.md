@@ -4,7 +4,7 @@ The following instructions will guide you through using Github throughout Virtua
 
 | Table Of Contents                  |
 |------------------------------------|
-| 1. Creating a Team Name            |
+| 1. [Creating a Team Name](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/How%20To%E2%80%99s.md#creating-a-team-name)            |
 | 2. Ideating using the Kanban Board |
 | 3. Assembling a goal statement     |
 | 4. Creating and logging all Tasks  |

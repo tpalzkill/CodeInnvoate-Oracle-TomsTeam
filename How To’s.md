@@ -1,7 +1,7 @@
 # How To’s
 1. From anywhere in your Github repo you should see a navigation bar near the top of the page, find this and then press the option that says “Projects”.  ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/1.png)
 
-2. Once you are in the “Projects” tab you will see 4 separate projects numbered from zero to three. Go ahead and click item “0 - Team Name” ![](How%20To%E2%80%99s/2%205.png)
+2. Once you are in the “Projects” tab you will see 4 separate projects numbered from zero to three. Go ahead and click item “0 - Team Name” ![](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/img/How%20To%E2%80%99s/2.png)
 
 3. You will land on a page that looks like the image below. There should be a kanban board with just one column. In that column one person on your team will click the red boxed ellipsis you can see in the image below. A list of options will appear, select “Edit Note”. ![](How%20To%E2%80%99s/3%205.png)
 

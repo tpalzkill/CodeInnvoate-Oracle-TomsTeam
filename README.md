@@ -2,7 +2,7 @@
 
 Welcome to the Virtual Code Innovate! These Wiki pages will help guide your team through the ideation and goal setting process. To begin with please list your name/email/github username below.
 
-## [Click here for How To's](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/How%20To%E2%80%99s.md#how-tos)
+### [Click here for How To's](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/How%20To%E2%80%99s.md#how-tos)
 
 
 ## Goal Statement:

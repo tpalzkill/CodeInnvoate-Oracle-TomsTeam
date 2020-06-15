@@ -10,7 +10,7 @@ The following instructions will guide you through using Github throughout Virtua
 | 4. [Creating and logging all Tasks](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/How%20To%E2%80%99s.md#creating-and-logging-all-tasks)  |
 | 5. [Submitting Issues](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam/blob/master/How%20To%E2%80%99s.md#submitting-issues)               |
 
-### [Return to Read-Me](https://github.com/tpalzkill/CodeInnvoate-Oracle-TomsTeam#virtual-code-innovate-event-team-repository)
+### [Return to Read-Me](https://github.com/code-innovate/virtualCodeInnovate/blob/master/README.md#virtual-code-innovate-event-team-repository)
 
 ## Creating a Team Name
 
